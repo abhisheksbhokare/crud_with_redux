@@ -1,8 +1,9 @@
 import './App.css';
+import Subchild1 from './components/subchild1';
 
 function App() {
   return (
-    <h4>Hello world</h4>
+    <Subchild1 />
   );
 }
 
